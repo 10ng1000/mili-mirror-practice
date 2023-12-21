@@ -1,4 +1,4 @@
-# A-web-exercise-cover_mili_offical_website
+# mili-mirror-practice
 大一的html/css/javascript学习，使用裸html/css模仿了乐队Project-mili的个人主页
 
 # 主页
